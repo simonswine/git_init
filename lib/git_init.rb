@@ -1,5 +1,6 @@
 require 'git_init/version'
 require 'pathname'
+require 'fileutils'
 
 
 module GitInit
